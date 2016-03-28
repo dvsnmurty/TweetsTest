@@ -1,6 +1,6 @@
 Notes:
 ======
-Please install mongodb first as I used MongoDB to store and retrieve the tweets of various users. 
+Please install mongodb first as I used mongodb to store and retrieve the tweets of various users. 
 No special configuration is required in a brand new installation of the mongodb. 
 
 The name of the db is "tweetsdb"
