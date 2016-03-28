@@ -31,6 +31,7 @@ using boilerplate code.
 ******************************************************************************************
 
 Instructions:
+=============
 1) In the source folder, run the following files in the order mentioned:
 	a) PopulateUsers.java   -- Creates user document including the fields mentioned above
 	b) PopulateTweets.java  -- Introduces tweets for the users.
